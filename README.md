@@ -1,7 +1,5 @@
 # README.md
 
-Oi, me chamo Felipe Rodrigues Costa, possuo solida experiência na área de TI. Sou Web Developer Java, JavaScritpt e Php. Com conhecimento em Arquiteturas de Microserviços, forte capacidade analítica, dinamismo e resolução de problemas com criatividade. 
-
 Limguagem de programação:
 Java, Spring Framework, Springboot, PHP. JavaScript
 
