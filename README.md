@@ -1,4 +1,4 @@
-# Limguagem de programação:
+# Linguagem de programação:
 Java, Spring Framework, Springboot, PHP. JavaScript
 
 # Banco de Dados:
