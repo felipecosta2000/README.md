@@ -1,5 +1,5 @@
 # Linguagem de programação:
-Java, Spring Framework, Springboot, PHP. JavaScript
+Java, Spring Framework, Springboot, PHP. JavaScript.
 
 # Banco de Dados:
 SqlServer, MySql, PostgreSql, MongoDb.
@@ -11,4 +11,7 @@ Spring Boot (Java), JEE(Java), React, Node.js (JavaScript), Angular.
 Spring MVC (Java), JSF(Java).
 
 # Ferramentas de Trabalho:
-Eclipse, Intellij, Visual Code, Git, SVN, NPM, Yarn, Trello, Jira, Postman, Insomnia
+Eclipse, Intellij, Visual Code, Git, SVN, NPM, Yarn, Trello, Jira, Postman, Insomnia.
+
+# Minhas Skills:
+Java, Javascript, Typescript, Nodejs, HTML5, CSS, Bootstrap, React, Angular, MySQL, PostegreSQL, MongoDB.
